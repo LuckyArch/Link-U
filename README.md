@@ -5,6 +5,8 @@
 ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)
 
+![Link U Preview](https://files.catbox.moe/2suaq4.jpg)
+
 Halo! Selamat datang di **Link U**, sebuah proyek *open-source* dengan *source code* mirip **LinkTree**. Ini adalah platform *Link-in-bio* super cepat dan elegan yang dirancang spesial buat para Developer, Content Creator, dan Profesional. Dibangun pakai ekosistem **Bun** + **Hono**, jadinya performa website kamu bakal ngebut banget dan pastinya hemat *resource*. 😎
 
 > [!TIP]
@@ -22,19 +24,7 @@ Halo! Selamat datang di **Link U**, sebuah proyek *open-source* dengan *source c
 | 🤖 **SEO & AI Ready** | Meta tag-nya udah lengkap banget (OpenGraph, Twitter Cards, JSON-LD Schema). AI dan Google pasti suka baca website kamu. |
 | ✨ **Desain Modern** | Ada efek *glassmorphism*, centang biru *verified*, dan *hover vibration* ala iOS. |
 
----
 
-## 📸 Tampilan (Showcase)
-
-````carousel
-![Dark Mode View](https://files.catbox.moe/aoldzv.webp)
-<!-- slide -->
-![Custom Avatar & Verified Badge](https://files.catbox.moe/im21eo.webp)
-<!-- slide -->
-![Clean UI Buttons](https://files.catbox.moe/2suaq4.jpg)
-````
-
----
 
 ## 🛠️ Cara Jalanin di Komputer Kamu
 
